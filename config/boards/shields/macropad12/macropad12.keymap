@@ -17,9 +17,9 @@
         // Layer 1: Media & System Controls
         layer_1 {
             bindings = <
-                &kp C_PP     &kp C_NEXT   &kp C_PREV   &kp C_AL_CALC
-                &kp C_VOL_UP &kp C_VOL_DN &kp C_BRI_UP &kp C_BRI_DN
-                &kp C_MUTE   &kp K_MUTE   &kp C_AL_LOCK &trans
+                &kp C_PP     &kp C_PREV   &kp C_NEXT   &kp N1
+                &kp C_VOL_DN &kp C_VOL_UP &kp C_MUTE   &kp N2
+                &bootloader  &kp N3       &kp N4       &trans
             >;
         };
     };
