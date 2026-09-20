@@ -10,7 +10,7 @@
             bindings = <
                 &kp F13      &kp F16      &kp F17      &kp F18
                 &kp F19      &kp F20      &kp F21      &kp F22
-                &kp F23      &kp F24      &bootloader  &mo 1
+                &kp F23      &kp F24      &kp K_MUTE   &mo 1
             >;
         };
 
